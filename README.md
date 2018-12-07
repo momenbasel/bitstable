@@ -42,7 +42,8 @@ just run it and leave it, it's that's simple!
 
 ###### Installing 
 
-``` $ git clone https://github.com/momenbasel/bitstable.git 
+```
+$ git clone https://github.com/momenbasel/bitstable.git 
 $ cd bistable 
 $ npm install 
 ```
