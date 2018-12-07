@@ -2,6 +2,8 @@
 <br/>
 ![BTC logo](logo.jpg "Logo btc") 
 <br/>
+<br/>
+
 🛑Introducing:
 ```
   ____ ___ _____   ____ _____  _    ____  _     _____
@@ -21,8 +23,8 @@ just run it and leave it, it's that's simple!
 ## Install 
 
 ###### Prerequisites
-NodeJS
-NPM
+* NodeJS
+* NPM
 
 ###### Dependencies
 * Bitcore
