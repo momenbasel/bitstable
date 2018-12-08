@@ -1,0 +1,26 @@
+{
+  "name": "bitstable",
+  "version": "1.0.0",
+  "description": "trading bot for BTC",
+  "main": "bitstable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momenbasel/bitstable.git"
+  },
+  "author": "momenbasel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momenbasel/bitstable/issues"
+  },
+  "homepage": "https://github.com/momenbasel/bitstable#readme",
+  "dependencies": {
+    "bitcore-explorers": "^1.0.1",
+    "bitcore-lib": "^0.16.0",
+    "chalk-pipe": "^2.0.0",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.1"
+  }
+}
