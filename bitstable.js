@@ -202,7 +202,7 @@ figlet('BIT STABLE', function(err, logo) {
   function exchangeAddress(USDTaddress,BTCamount,from,PrivateKey) {
 
       //PLEASE NOTE THAT BTCAMOUNT IS IN BTC NOT IN SATOSHI!!!
-      const api_key = "4358392c41dc988cec69e9196d98c43595c273bc950bd6afc157327a712bf1cf";  //IT'S SAFE TO KEEP IT IN PRODUCATION DON'T CHANGE IT PLEASE(THEY GIVE ME Affiliatefee).
+      const api_key = "4358392c41dc988cec69e9196d98c43595c273bc950bd6afc157327a712bf1cf";  //IT'S SAFE TO KEEP IT IN PRODUCATION DON'T CHANGE IT PLEASE(it give me Affiliatefee).
       const data = JSON.stringify({
           from:'BTC',
           to:'USDT',  //(USDC MAYBE?)
